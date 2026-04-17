@@ -1,4 +1,4 @@
-# Zadacha
+# Zadacha_SHAMA_C++
 
 # КОД
 
